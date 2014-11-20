@@ -1,0 +1,44 @@
+Annex 3 B - Technical characteristics oi Existing Intrastructures
+
+3B-1: Main Railway Line
+
+The Main Railway Line links the Sangaredi mine and the Kamsar port and is about 136 km long. It
+includes 5 stations among those are two 1.5 km passing tracks in Boke and Gobire.
+
+The technical specitications ot the Main Railway Line are as tollowing:
+
+Normal track .......................................................................................................... .. 1435 mm
+
+UIC-60 and 136 RE rail 60.30 kg/m (Marshalling Yards at Kamsar and Sangarédi) and
+67.39 kg/m (Main Railway Line)
+
+ 
+
+Sleepers ........ .. 1700/Km
+Doleritic ballast .35 cm
+Type K tastener (adjusting clips). ..C65 and C75
+Maximum axle load ............................................................................................ .. 27.5 T/axle
+Basic declivity:
+
+— In the direction o1 loaded trains. .. 5°/°°
+
+ 
+
+  
+
+— In the direction o1 empty trains .. 15°/°°
+- Minimum radius .......................................................................................................... ..500 m
+- Vertical curve radius .............................................................................................. ..10,000 m
+— Length o1 main track ...... .. 136.7 Km
+Number o1 passing loops .4
+— Kolaboui .............. .. .150 m
+— Boke ............................................................................................................... ..1700 m
+- Tanene ........................................................................................................... ..1700 m
+- Gobire ..................... ..
+Number ol Marshalling Yards..
+Elevation tolerance(+) (—)..... 3 mm in curve or in alignment
+Speed o1 mineral trains .......................................................................................... .. 60 Km/h
+Speed o1 passenger trains ..................................................................................... .. 70 Km/h
+
+39
+

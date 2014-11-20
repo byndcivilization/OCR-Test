@@ -1,0 +1,50 @@
+Tanene 1700 m
+
+Gobire 1700 m
+Number ol Marshalling Yards (3)
+Elevation tolerance (+) (-) 3mm in curve or in alignment
+Speed oi mineral trains 60 Km/h
+Speed oi passenger trains 70 Km/h
+
+Slopes and ramps are limited to 5‘’/‘’‘’ in the direction irom the Mine to the Port and 20°!” and in the
+direction irom the Port to the Mine. They are not compensated.
+
+Compensation 0.04% (1 .745.38)/R
+Banking maximum banking 86mm
+Rails (main track) 136RE
+UIC type sleepers 77kgs
+Junctions Tg 0.11
+
+ANAIM shall take all necessary measures vis—a—vis GAC SA to ensure that the track parameters
+correspond to the construction characteristics, both according to plan and proiile, and comply with the
+maximum load oi 27.5 tonnes per axle or the maximum load recorded upon reception oi the
+rehabilitation work.
+
+The new rails installed must be checked using ultrasound or any other method in accordance with the
+Rules oi the Art and approved by ANAIM, tor recording oi the data on the entire length at a irequency
+accepted as Rules oi the Art and more irequently ii the conditions oi use so justiiy and upon
+recommendation oi the Technical Committee.
+
+Every improvement or expansion oi the Main Railway Line must have technical characteristics
+coniorming with the Existing lnirastructures as deiined in the Schedule oi Speciiications and as
+indicated above:
+
+4.2 Use:
+
+In the event that ANAIM wishes to increase the use oi the Common lnirastructures tor the activities oi
+other companies, in particular mining companies, wishing to establish themselves in the region oi Boke,
+GAC SA, as user, shall accept at the request oi ANAIM to deiine the technical conditions tor such
+increase and use oi these installations, provided that the works relating to the increase and the use by
+third parties do not aiiect the normal iunctioning oi GAC SA or the conditions oi use oi these
+inirastructures by each oi these companies. A similar provision is applying to the Concessionaire under
+the Operations Agreement.
+
+Without prejudice to the provisions oi Articles 21 and 25 oi this lnirastructure Agreement, It is
+understood that as regards to the Existing lnirastructures and the Additional lnirastructures and
+Installations used in common, the iollowing priority will apply:
+
+iirst, to CBG in accordance with article 8 oi the Concession Agreement, and also to its
+bauxite activities in relation to a CBG Reiinery (as deiined hereunder);
+
+10
+
